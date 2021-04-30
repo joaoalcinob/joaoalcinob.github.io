@@ -9,7 +9,7 @@ navbar_entries:
     url: https://www.abhinav.co
 
 project_entries:
-  -title: Post teste
+  - title: Post teste
     url: post_test
     desc: Essa é uma postagem teste.
   - title: Project 1
